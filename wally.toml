@@ -1,0 +1,11 @@
+[package]
+name = "reccy/animationcontroller"
+description = "Makes Animation Easier in all ways!"
+license = "MIT"
+authors = ["Reccy"]
+version = "0.0.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["rokit.toml"]
+
+[dependencies]
